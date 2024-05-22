@@ -51,7 +51,7 @@
 	url = https://github.com/edicl/flexi-streams.git
 [submodule "home/iterate"]
 	path = home/iterate
-	url = https://github.com/lisp-mirror/iterate
+	url = https://github.com/lisp-mirror/iterate.git
 [submodule "home/bordeaux-threads"]
 	path = home/bordeaux-threads
 	url = https://github.com/froggey/bordeaux-threads.git
