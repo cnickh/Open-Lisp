@@ -33,7 +33,7 @@
 	url = https://github.com/froggey/slime
 [submodule "Mezzano"]
 	path = Mezzano
-	url = https://github.com/froggey/Mezzano
+	url = https://github.com/cnickh/Mezzano
 [submodule "home/cl-wav"]
 	path = home/cl-wav
 	url = https://github.com/RobBlackwell/cl-wav.git
@@ -49,6 +49,9 @@
 [submodule "home/flexi-streams"]
 	path = home/flexi-streams
 	url = https://github.com/edicl/flexi-streams.git
+[submodule "home/iterate"]
+	path = home/iterate
+	url = https://github.com/lisp-mirror/iterate
 [submodule "home/bordeaux-threads"]
 	path = home/bordeaux-threads
 	url = https://github.com/froggey/bordeaux-threads.git
